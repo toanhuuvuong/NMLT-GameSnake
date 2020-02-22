@@ -1,2 +1,3 @@
 # NMLT-GameSnake
-Game rắn ăn mồi
+### Hướng dẫn chơi
+### Ảnh minh hoạ
